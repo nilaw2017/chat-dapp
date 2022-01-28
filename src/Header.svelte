@@ -8,7 +8,7 @@
 </script>
 
 <header>
-  <img src="./../computer.svg.png" />
+  <img src="./../computer.svg.png" alt="LOGO" />
   {#if $username}
     <div class="user-bio">
       <span>Hello <strong>{$username}</strong></span>
